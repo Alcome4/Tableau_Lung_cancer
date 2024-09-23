@@ -1,6 +1,6 @@
 # Tableau_Lung_cancer
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.utsouthwestern.edu%2Fnewsroom%2Farticles%2Fyear-2024%2Fmarch-lung-cancer-treatment.html&psig=AOvVaw0nNnxLtnD-j7FUQfADnQXa&ust=1727212529093000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiogKD-2YgDFQAAAAAdAAAAABAE 
+<img align="center" alt="Coding" width="600" src="https://img.freepik.com/premium-photo/rear-view-young-woman-red-cap-standing-supermarket-reading-book-woman-with-shopping-store-shelf-ai-generated_538213-8058.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.utsouthwestern.edu%2Fnewsroom%2Farticles%2Fyear-2024%2Fmarch-lung-cancer-treatment.html&psig=AOvVaw0nNnxLtnD-j7FUQfADnQXa&ust=1727212529093000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiogKD-2YgDFQAAAAAdAAAAABAE">
 
 ### Problem Understanding
 Lung cancer is the leading cause of cancer-related deaths worldwide. While the majority of lung cancer cases are attributed to smoking, emerging research highlights that exposure to air pollution is also a significant risk factor. A recent study found that air pollution may increase the risk of lung cancer, even among nonsmokers. Understanding these contributing factors is critical for early prevention and improving lung health outcomes.
