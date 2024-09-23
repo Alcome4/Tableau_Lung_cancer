@@ -27,13 +27,13 @@ The dataset contains the following key features:
 - **Swallowing Difficulty**: Whether the patient has difficulty swallowing (Categorical)
 - **Clubbing of Finger Nails**: Whether the patient has clubbing of the fingernails (Categorical)
 ### Problem Questions
-•	What are the key risk factors for lung cancer?
-•	What symptoms are most closely associated with lung cancer?
-•	Which age group shows the highest incidence of lung cancer?
+- What are the key risk factors for lung cancer?
+- What symptoms are most closely associated with lung cancer?
+- Which age group shows the highest incidence of lung cancer?
 ### Conclusion
 Our visualizations provided several key insights:
-•	A significant number of lung cancer cases were observed in the age group 35-40.
-•	The most prominent risk factors identified were smoking, occupational hazards, and air pollution.
-•	The most common symptoms associated with lung cancer include coughing up blood, fatigue, chest pain, and chronic lung disease.
+- A significant number of lung cancer cases were observed in the age group 35-40.
+- The most prominent risk factors identified were smoking, occupational hazards, and air pollution.
+- The most common symptoms associated with lung cancer include coughing up blood, fatigue, chest pain, and chronic lung disease.
 These findings suggest that a combination of lifestyle factors, such as smoking and exposure to air pollution, along with symptoms like chronic chest pain and coughing blood, are strong indicators of possible lung cancer. Early detection and management of these risk factors and symptoms can play a critical role in lung cancer prevention and treatment.
 
