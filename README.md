@@ -1,4 +1,4 @@
-# Tableau_Lung_cancer
+# Tableau_LungCancer
 
 <img align="center" alt="Coding" width="600" src="https://www.utsouthwestern.edu/newsroom/articles/year-2024/assets/lung-cancer-header.jpg">
 
